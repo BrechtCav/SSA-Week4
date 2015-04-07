@@ -140,3 +140,8 @@ C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Websho
 C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop\bin\Microsoft.Data.OData.xml
 C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop\bin\Microsoft.Data.Services.Client.xml
 C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop\bin\System.Spatial.xml
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop\bin\Microsoft.Practices.Unity.dll
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop\bin\Unity.Mvc5.dll
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop\bin\Microsoft.Practices.Unity.xml
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop\bin\Microsoft.Practices.Unity.Configuration.xml

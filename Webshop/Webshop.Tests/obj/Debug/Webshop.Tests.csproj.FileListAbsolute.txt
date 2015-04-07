@@ -98,3 +98,8 @@ C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Websho
 C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop.Tests\bin\Debug\Webshop-Models.dll
 C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop.Tests\bin\Debug\Webshop-BusinessLayer.pdb
 C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop.Tests\bin\Debug\Webshop-Models.pdb
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop.Tests\bin\Debug\Unity.Mvc5.dll
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop.Tests\bin\Debug\Microsoft.Practices.Unity.xml

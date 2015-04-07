@@ -7,7 +7,7 @@ using Webshop_BusinessLayer.Context;
 using Webshop.Models;
 namespace Webshop_BusinessLayer.Repositories
 {
-    public class DeviceRepository : GenericRepository<Device>
+    public class DeviceRepository : GenericRepository<Device>, IDeviceRepository
     {
         public List<Device> GetDevices()
         {
@@ -39,7 +39,6 @@ namespace Webshop_BusinessLayer.Repositories
             }
             context.Devices.Add(device);
             context.SaveChanges();
-
         }
         public void UpdatePicture(Device d)
         {
