@@ -1,0 +1,5 @@
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop-Models\bin\Debug\Webshop-Models.dll
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop-Models\bin\Debug\Webshop-Models.pdb
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop-Models\obj\Debug\Webshop-Models.csprojResolveAssemblyReference.cache
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop-Models\obj\Debug\Webshop-Models.dll
+C:\School\Semester 4\Server Side Advanced\Labo Oplossingen\Week 3\Webshop\Webshop-Models\obj\Debug\Webshop-Models.pdb
